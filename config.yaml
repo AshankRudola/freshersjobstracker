@@ -1,0 +1,27 @@
+debug_level: 1
+scrapers:
+- class: LinkedInScraper
+  enabled: true
+  max_results_per_search: 200
+  module: scrapers.linkedin
+  name: linkedin
+- class: NaukriScraper
+  enabled: true
+  max_results_per_search: 200
+  module: scrapers.naukri
+  name: naukri
+- class: IndeedScraper
+  enabled: true
+  max_results_per_search: 200
+  module: scrapers.indeed
+  name: indeed
+- class: UnstopScraper
+  enabled: true
+  max_results_per_search: 200
+  module: scrapers.unstop
+  name: unstop
+- class: ShineScraper
+  enabled: true
+  max_results_per_search: 200
+  module: scrapers.shine
+  name: shine
