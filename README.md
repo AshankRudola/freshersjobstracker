@@ -2,8 +2,6 @@
 
 Built by **Ashank Rudola**
 
-![Freshers Jobs Tracker Dashboard](./docs/screenshot.png)
-
 A comprehensive cross-platform tool to search, track, and manage job opportunities across multiple portals (LinkedIn, Naukri, Indeed, Unstop, Shine) with a beautiful web dashboard and a standalone Windows application.
 
 ---
