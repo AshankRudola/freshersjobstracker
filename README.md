@@ -2,7 +2,7 @@
 
 Built by **Ashank Rudola**
 
-A comprehensive cross-platform tool to search, track, and manage job opportunities across multiple portals (LinkedIn, Naukri, Indeed, Unstop, Shine) with a beautiful web dashboard and a standalone Windows application.
+A comprehensive cross-platform tool to search, track, and manage job opportunities across multiple portals (LinkedIn, Naukri, Indeed, Unstop, Shine) with a clean web dashboard and a standalone Windows application. Focused on jobs for Indian freshers (candidates with zero to 2 years of experience).
 
 ---
 
